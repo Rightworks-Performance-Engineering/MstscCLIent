@@ -46,7 +46,7 @@ The app uses COM interop with MSTSC ActiveX, `RoyalApps.Community.Rdp.WinForms`,
 
 ## Todo:
 - [ ] Add support for [{SessionId}](https://docs.loginvsi.com/login-enterprise/6.8/custom-connector#Connection-Command-Line) command line argument for Login Enterprise 6.2+
-- [ ] Implement [Named Pipes](https://docs.loginvsi.com/login-enterprise/6.4/configuring-connectors-and-connections#Named-Pipes-for-Custom-Connector) for Login Enterprise 6.4+ Custom Connectors using the [CustomConnector SDK](https://docs.loginvsi.com/login-enterprise/6.4/configuring-connectors-and-connections#CustomConnector-SDK-(Named-Pipe))
+- [ ] Implement [Named Pipes](https://docs.loginvsi.com/login-enterprise/6.8/named-pipes-for-custom-connector) for Login Enterprise 6.4+ Custom Connectors using the [CustomConnector SDK](https://docs.loginvsi.com/login-enterprise/6.8/custom-connector-sdk-named-pipe)
 - [ ] Support resolutions other than 1920x1080
 
 ---
